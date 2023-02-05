@@ -4,7 +4,7 @@ import { IoLogoInstagram, IoMailOutline } from "react-icons/io5";
 const Navbar = () => {
   return (
     <header aria-label="Site Header" className="shadow-md">
-      <div className="mx-auto max-w-screen-xl p-6 bg-slate-200">
+      <div className="mx-auto w-screen p-6 bg-slate-200">
         <div className="flex items-center justify-between gap-4 lg:gap-10">
           <div className="flex lg:w-0 md:flex-1 flex-row">
             <a href="">
