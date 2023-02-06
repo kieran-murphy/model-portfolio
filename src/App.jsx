@@ -5,9 +5,6 @@ function App() {
   return (
     <>
       <Navbar />
-      {/* <CTA />
-      <CTA />
-      <CTA /> */}
     </>
   );
 }
